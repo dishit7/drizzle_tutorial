@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712127225821,
+      "tag": "0000_mushy_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712432256167,
+      "tag": "0001_slippery_mindworm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712469670310,
+      "tag": "0002_long_blizzard",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1712471690723,
+      "tag": "0003_mute_steve_rogers",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1712472860844,
+      "tag": "0004_handy_mentallo",
+      "breakpoints": true
+    }
+  ]
+}
